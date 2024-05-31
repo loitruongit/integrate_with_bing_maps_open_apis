@@ -1,0 +1,6 @@
+@integrate_with_bing_maps_open_apis_HostAddress = http://localhost:5069
+
+GET {{integrate_with_bing_maps_open_apis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
